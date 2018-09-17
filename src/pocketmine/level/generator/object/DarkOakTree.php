@@ -26,6 +26,5 @@ class DarkOakTrees extends Tree{
 		$this->trunkBlock = Block::LOG;
 		$this->leafBlock = Block::LEAVES;
 		$this->type = Wood::DarkOak;
-		$this->treeHeight = 8;
 	}
 }
